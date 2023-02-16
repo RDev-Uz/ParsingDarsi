@@ -21,7 +21,7 @@ Parsing darsimizda biz siz bilan [quotes.toscrape.com](https://quotes.toscrape.c
 
 ![1_rasm](images/1_rasm.png)
 
-Keling biz siz bilan saytdagi iqtiboslar, teglar va uning muallifini o'lishni ko'ramiz. Parsing uchun script (kod) yozishdan avval biz parsing qilmoqchi bo'lgan saytmizning HTML kodlarini o'rganib chiqishimiz kerak. Yani biz saytga "murojaat" qilganimizda bizga sayt tomonidan "javob" tariqasida qaytariladigan HTML kodni. Saytning HTML kodlarini o'rganish **CTRL+U** kombinatsiyasini bosing yoki sahifaning istalgan joyida **sichqonchaning o'ng tugmasini** (agar hech qanday menyu chiqmasa chap tugmasini) **bosing** va chiqgan menyudan **Просмотр кода страницы** ni tanlang. Shunda quyidagiga o'xshash yangi oyna ochiladi va ushbu oynada saytning HTML kodlarini ko'rishingiz mumkin:
+Keling biz siz bilan saytdagi iqtiboslar, teglar va uning muallifini olishni ko'ramiz. Parsing uchun script (kod) yozishdan avval biz parsing qilmoqchi bo'lgan saytmizning HTML kodlarini o'rganib chiqishimiz kerak. Yani biz saytga "murojaat" qilganimizda bizga sayt tomonidan "javob" tariqasida qaytariladigan HTML kodni. Saytning HTML kodlarini o'rganish **CTRL+U** kombinatsiyasini bosing yoki sahifaning istalgan joyida **sichqonchaning o'ng tugmasini** (agar hech qanday menyu chiqmasa chap tugmasini) **bosing** va chiqgan menyudan **Просмотр кода страницы** ni tanlang. Shunda quyidagiga o'xshash yangi oyna ochiladi va ushbu oynada saytning HTML kodlarini ko'rishingiz mumkin:
 
 ![2_rasm](images/2_rasm.png)
 
